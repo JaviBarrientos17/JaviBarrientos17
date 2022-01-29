@@ -15,10 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+📝 Linkedin [https://www.linkedin.com/in/javi-barrientos-peralta/](https://www.linkedin.com/in/javi-barrientos-peralta/)
+📫 How to reach me **javierbarrientos2010@gmail.com**
+
+### Facts about me:
+
 - 🌱 I’m currently studying an Higher Degree in Web Application Development.
 - 🏁 I finished an Higher Degree in Cross-Platform Application Development.
+- 👷🏻 Currently im working at accenture as a junior programmer.
 
-### Languages and tools
+### Languages and tools:
 
 <p align="left">
     <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/></a>
