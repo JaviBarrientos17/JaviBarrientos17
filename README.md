@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 ### Languages and tools:
 
-<!-- TODO AÑADIR IMÁGENES DE FLUTTER Y ANDROID -->
-
 <p align="left">
     <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/></a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
