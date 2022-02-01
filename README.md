@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 📝 Linkedin [https://www.linkedin.com/in/javi-barrientos-peralta/]<br/>
-📫 How to reach me --> **javierbarrientos2010@gmail.com**
+📫 How to reach me -> **javierbarrientos2010@gmail.com**
 
 ### Facts about me:
 
