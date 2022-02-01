@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently studying an Higher Degree in Web Application Development.
 - 🏁 I finished an Higher Degree in Cross-Platform Application Development.
-- 👷🏻 Currently im working at accenture as a junior programmer.
+- 👷🏻 Currently im working Accenture as a junior programmer.
 
 ### Languages and tools:
 
