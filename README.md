@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <p align="left">
     <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/></a>
-    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://yt3.ggpht.com/ytc/AKedOLRt1d4p7bPylasq_66BIC8-k3hkyVjJ2JICQITK=s900-c-k-c0x00ffffff-no-rj" width="40" height="40"/></a>
+    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="file:///C:/Users/Javi/Downloads/Flutter.svg" width="40" height="40"/></a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"width="40" height="40"/></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
