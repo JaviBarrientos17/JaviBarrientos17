@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📝 Linkedin [https://www.linkedin.com/in/javi-barrientos-peralta/](https://www.linkedin.com/in/javi-barrientos-peralta/)
+📝 Linkedin [https://www.linkedin.com/in/javi-barrientos-peralta/]
 📫 How to reach me **javierbarrientos2010@gmail.com**
 
 ### Facts about me:
