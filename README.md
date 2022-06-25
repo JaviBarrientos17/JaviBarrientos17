@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 
 ### Facts about me:
 
-- 🌱 I’m currently studying a Higher Degree in Web Application Development.
-- 🏁 I finished a Higher Degree in Cross-Platform Application Development.
+- 🏁 I finished a Higher Degree in Cross-Platform Application Development and a Higher Degree in Web Application Development.
 - 👷🏻 Currently im working Accenture as a Junior Backend Developer.
 
 ### Languages and tools:
