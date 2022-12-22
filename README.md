@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🏁 Graduated in Higher Degree in Cross-Platform Application Development.
 - 🏁 Graduated in Higher Degree in Web Application Development.
-- 👷🏻 Currently im working Accenture as a Junior Backend Developer.
+- 👷🏻 Currently im working as a Business and Arch Integration Analyst at Accenture Spain.
 
 ### Languages and tools:
 
